@@ -1,0 +1,4 @@
+[submodule "path-to-prework-study-guide"]
+	path = path-to-prework-study-guide
+	url = https://github.com/nobrien1996/prework-study-guide.git
+
